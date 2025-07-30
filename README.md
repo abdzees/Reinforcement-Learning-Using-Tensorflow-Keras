@@ -39,7 +39,7 @@ This project demonstrates how to train a Deep Q-Network (DQN) agent to solve the
 4. Save and load model weights for persistence.
 
 ## During Training
-![CartPole Balancing Preview](cartpole_preview.gif)
+![CartPole Balancing Preview](cartpole_preview.png)
 
 ---
 
