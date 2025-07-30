@@ -38,6 +38,9 @@ This project demonstrates how to train a Deep Q-Network (DQN) agent to solve the
 3. Test the trained agent and observe the CartPole balancing visually.  
 4. Save and load model weights for persistence.
 
+## During Training
+![CartPole Balancing Preview](cartpole_preview.gif)
+
 ---
 
 This project serves as a foundation for understanding and experimenting with deep reinforcement learning on classic control problems using modern libraries.
